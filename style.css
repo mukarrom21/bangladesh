@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+header {
+    
+}
+.parent {
+    display: flex;
+    margin: ;
+}
+.parent div {
+    width: 50%;
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+}
